@@ -58,6 +58,25 @@ Automated Digital Goods Delivery Platform
 
 ---
 
+## 广告与赞助
+
+<!-- 新增广告或赞助商时，复制一个 <tr>，保持左侧 Logo、右侧介绍的结构。 -->
+<table width="100%">
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <a href="https://cloud.aiyiwl.net/">
+        <img src="https://storage.aiyiwl.com/storage/www-logo.png" alt="爱意Web 云服务器" width="176" />
+      </a>
+    </td>
+    <td width="80%" valign="middle">
+      <a href="https://cloud.aiyiwl.net/"><strong>爱意Web</strong></a> 专注云服务器，<strong>正规企业运营，拥有 13 年运营经验</strong>。提供<strong>高速网络线路</strong>，为网站搭建、应用部署与业务运行提供云端算力，让访问更流畅、业务跑得快。上云选老牌。<br />
+      <a href="https://cloud.aiyiwl.net/"><strong>前往官网查看云服务器方案 →</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 支付渠道集成
 
 | 渠道            | 接入方式        | 说明             |
