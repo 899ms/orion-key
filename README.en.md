@@ -58,6 +58,25 @@
 
 ---
 
+## Ads & Sponsors
+
+<!-- To add an advertiser or sponsor, copy a <tr> with the logo on the left and the description on the right. -->
+<table width="100%">
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <a href="https://cloud.aiyiwl.net/">
+        <img src="https://storage.aiyiwl.com/storage/www-logo.png" alt="AiyiWeb Cloud Servers" width="176" />
+      </a>
+    </td>
+    <td width="80%" valign="middle">
+      <a href="https://cloud.aiyiwl.net/"><strong>AiyiWeb</strong></a> offers cloud servers backed by a <strong>registered business with 13 years of operating experience</strong>. Its <strong>high-speed network</strong> powers websites, applications, and business workloads with fast connections. Put experience behind your next deployment.<br />
+      <a href="https://cloud.aiyiwl.net/"><strong>Explore cloud server plans →</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Integrated Payment Channels
 
 | Channel       | Integration         | Notes                                              |
