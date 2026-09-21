@@ -63,12 +63,25 @@ Automated Digital Goods Delivery Platform
 <!-- 新增广告或赞助商时，复制一个 <tr>，保持左侧 Logo、右侧介绍的结构。 -->
 <table width="100%">
   <tr>
-    <td width="20%" align="center" valign="middle">
-      <a href="https://cloud.aiyiwl.net/">
-        <img src="https://storage.aiyiwl.com/storage/www-logo.png" alt="爱意Web 云服务器" width="176" />
+    <td width="42%" align="center" valign="middle">
+      <a href="https://maolaoapi.com/register?aff=vmXx">
+        <img src=".github/assets/maolao-api-poster.png" alt="MaoLao API 统一大模型接口网关" width="560" />
       </a>
     </td>
-    <td width="80%" valign="middle">
+    <td width="58%" valign="middle">
+      <a href="https://maolaoapi.com/register?aff=vmXx"><strong>MaoLao API</strong></a> · 统一入口，连接全球 AI 能力<br />
+      <strong>30+ 供应商 · 200+ 模型 · 99.9% SLA</strong><br />
+      兼容 OpenAI / Anthropic / Gemini，原生 SDK 即接即用<br />
+      <a href="https://maolaoapi.com/register?aff=vmXx"><strong>注册即享统一 API 接入 →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <a href="https://cloud.aiyiwl.net/">
+        <img src=".github/assets/aiyi-web-poster.png" alt="爱意Web 云服务器" width="560" />
+      </a>
+    </td>
+    <td width="58%" valign="middle">
       <a href="https://cloud.aiyiwl.net/"><strong>爱意Web</strong></a> 专注云服务器，<strong>正规企业运营，拥有 13 年运营经验</strong>。提供<strong>高速网络线路</strong>，为网站搭建、应用部署与业务运行提供云端算力，让访问更流畅、业务跑得快。上云选老牌。<br />
       <a href="https://cloud.aiyiwl.net/"><strong>前往官网查看云服务器方案 →</strong></a>
     </td>
